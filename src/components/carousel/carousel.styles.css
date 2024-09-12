@@ -1,0 +1,7 @@
+/* @import "~react-image-gallery/styles/css/image-gallery.css"; */
+
+.carouosel-container {
+    background-color: #000;
+    border-radius: 10px;
+    overflow: hidden;
+}
